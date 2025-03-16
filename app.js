@@ -22,6 +22,7 @@ function verificarIntento(){
             asignarTextoElemento('p', 'El numuero secreto es menor');
         } else {
             asignarTextoElemento('p', 'El numero secreto es mayor');
+            //LLAMANDO LA FUNCION LLAMAR CAJA JEJE
         }
         intentos++;
         limpiarcaja();
